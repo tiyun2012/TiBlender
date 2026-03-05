@@ -88,3 +88,8 @@ compile_commands.json
 blendcache_*
 *.blend1
 *.blend2
+
+# Parent-repo local directories.
+/blender/
+/build_windows_x64_vc17_Release/
+/tiblender-push-20260305/
